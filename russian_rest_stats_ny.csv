@@ -1,0 +1,22 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Brooklyn,Gravesend,4a2937fcf964a52069951fe3,Stolovaya,40,8.0,27
+Brooklyn,Brighton Beach,4ac69109f964a52017b520e3,Skovorodka,95,7.9,48
+Brooklyn,Brighton Beach,4245f780f964a52070201fe3,Tatiana Restaurant,161,7.0,67
+Brooklyn,Brighton Beach,4c1ea63763750f474c19ba67,Volna Café,34,6.0,21
+Brooklyn,Sheepshead Bay,5a08f7e2d48ec1369706f57d,Bellarussian Xata,24,8.5,7
+Brooklyn,Sheepshead Bay,55d6885e498e41b9e7b8b5e8,Cafe Dushanbe,13,7.3,4
+Brooklyn,Sheepshead Bay,5324ee02498e9a825bb4f689,La Vue Restaurant,23,7.1,3
+Brooklyn,Sheepshead Bay,4b53cec1f964a520f9ab27e3,Vanka Vstanka,5,6.3,4
+Brooklyn,Sheepshead Bay,4b2ecbf5f964a520cee624e3,Passage,8,6.2,5
+Brooklyn,Manhattan Terrace,531d0f0b11d2ad3e0970136a,Village Cafe,17,7.6,7
+Brooklyn,Manhattan Beach,55d6885e498e41b9e7b8b5e8,Cafe Dushanbe,13,7.3,4
+Brooklyn,Manhattan Beach,4b2ecbf5f964a520cee624e3,Passage,8,6.2,5
+Brooklyn,Gerritsen Beach,5324ee02498e9a825bb4f689,La Vue Restaurant,23,7.1,3
+Brooklyn,Gerritsen Beach,4b53cec1f964a520f9ab27e3,Vanka Vstanka,5,6.3,4
+Brooklyn,Ocean Parkway,531d0f0b11d2ad3e0970136a,Village Cafe,17,7.6,7
+Manhattan,Gramercy,4a777018f964a5207be41fe3,Mari Vanna,548,8.9,193
+Manhattan,Flatiron,4a777018f964a5207be41fe3,Mari Vanna,548,8.9,193
+Brooklyn,Homecrest,4a2937fcf964a52069951fe3,Stolovaya,40,8.0,27
+Brooklyn,Homecrest,45a5267bf964a520fc401fe3,Pirosmani,9,7.8,8
+Brooklyn,Homecrest,52b4e4a5498e11c54d9fdb6d,Padishah,3,6.2,3
+Brooklyn,Homecrest,5216b79a11d2f52ef2ee2e24,The Art House,6,5.9,4
